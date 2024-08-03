@@ -10,9 +10,9 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
-- [ ] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
-- [ ] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
+- [x] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
+- [x] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
+- [x] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
 
 
 
