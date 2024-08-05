@@ -13,6 +13,11 @@
 - [x] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
 - [x] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
 - [x] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
+- [ ] [Capítulo 12](https://drive.google.com/file/d/1AafPjK3xX79KCKn1tDazNuEkCQQVmwib/preview)
+- [ ] [Capítulo 13](https://drive.google.com/file/d/1B5yMzhdgVFdnJIh0rH7taCBm_RSF-Cj2/preview)
+- [ ] [Capítulo 14](https://drive.google.com/file/d/1OKoGboKXYva2emn2O5ntqGkioI8lEM2w/preview)
+- [ ] [Capítulo 15]()
+- [ ] [Capítulo 16]()
 
 
 
