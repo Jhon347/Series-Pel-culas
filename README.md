@@ -19,8 +19,10 @@
 - [ ] [Capítulo 12](https://drive.google.com/file/d/1AafPjK3xX79KCKn1tDazNuEkCQQVmwib/preview)
 - [ ] [Capítulo 13](https://drive.google.com/file/d/1B5yMzhdgVFdnJIh0rH7taCBm_RSF-Cj2/preview)
 - [ ] [Capítulo 14](https://drive.google.com/file/d/1OKoGboKXYva2emn2O5ntqGkioI8lEM2w/preview)
-- [ ] [Capítulo 15]()
-- [ ] [Capítulo 16]()
+- [ ] [Capítulo 15](https://drive.google.com/file/d/1Giu4_qOjmxGzTHVv2EYheSTbZiLTL8oO/preview)
+- [ ] [Capítulo 16](https://drive.google.com/file/d/19uCO2anZZGK1rY5Cbvoc21CRt7moee4n/preview)
+- [ ] [Capítulo 17](https://drive.google.com/file/d/1VCxI4pymRvHA-Hv1L2SEvDPZsQiQ3_WP/preview)
+- [ ] [Capítulo 18]()
 
 
 
