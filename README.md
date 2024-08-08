@@ -13,16 +13,21 @@
 ## Betty
 
 **Temporada 01**
-- [x] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
-- [x] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
-- [x] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
-- [ ] [Capítulo 12](https://drive.google.com/file/d/1AafPjK3xX79KCKn1tDazNuEkCQQVmwib/preview)
-- [ ] [Capítulo 13](https://drive.google.com/file/d/1B5yMzhdgVFdnJIh0rH7taCBm_RSF-Cj2/preview)
-- [ ] [Capítulo 14](https://drive.google.com/file/d/1OKoGboKXYva2emn2O5ntqGkioI8lEM2w/preview)
-- [ ] [Capítulo 15](https://drive.google.com/file/d/1Giu4_qOjmxGzTHVv2EYheSTbZiLTL8oO/preview)
-- [ ] [Capítulo 16](https://drive.google.com/file/d/19uCO2anZZGK1rY5Cbvoc21CRt7moee4n/preview)
+- [ ] [Capítulo 23]()
+- [ ] [Capítulo 22]()
+- [ ] [Capítulo 21]()
+- [ ] [Capítulo 20]()
+- [ ] [Capítulo 19](https://drive.google.com/file/d/1hSe1Zf5OzB4pTiNQfSMGiNBs8VgESZzQ/preview)
+- [ ] [Capítulo 18](https://drive.google.com/file/d/1mFszW0A5FmwASGpQqnnPUxEGS6wtbmI9/preview)
 - [ ] [Capítulo 17](https://drive.google.com/file/d/1VCxI4pymRvHA-Hv1L2SEvDPZsQiQ3_WP/preview)
-- [ ] [Capítulo 18]()
+- [x] [Capítulo 16](https://drive.google.com/file/d/19uCO2anZZGK1rY5Cbvoc21CRt7moee4n/preview)
+- [x] [Capítulo 15](https://drive.google.com/file/d/1Giu4_qOjmxGzTHVv2EYheSTbZiLTL8oO/preview)
+- [x] [Capítulo 14](https://drive.google.com/file/d/1OKoGboKXYva2emn2O5ntqGkioI8lEM2w/preview)
+- [x] [Capítulo 13](https://drive.google.com/file/d/1B5yMzhdgVFdnJIh0rH7taCBm_RSF-Cj2/preview)
+- [x] [Capítulo 12](https://drive.google.com/file/d/1AafPjK3xX79KCKn1tDazNuEkCQQVmwib/preview)
+- [x] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
+- [x] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
+- [x] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
 
 
 
