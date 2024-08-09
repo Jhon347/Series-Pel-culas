@@ -13,13 +13,14 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 23]()
-- [ ] [Capítulo 22]()
-- [ ] [Capítulo 21]()
-- [ ] [Capítulo 20]()
-- [ ] [Capítulo 19](https://drive.google.com/file/d/1hSe1Zf5OzB4pTiNQfSMGiNBs8VgESZzQ/preview)
-- [ ] [Capítulo 18](https://drive.google.com/file/d/1mFszW0A5FmwASGpQqnnPUxEGS6wtbmI9/preview)
-- [ ] [Capítulo 17](https://drive.google.com/file/d/1VCxI4pymRvHA-Hv1L2SEvDPZsQiQ3_WP/preview)
+- [ ] [Capítulo 24]()
+- [ ] [Capítulo 23](https://drive.google.com/file/d/1tzr_Q8HXbDvmoSYr0jHEnobw3Xqwi-eB/preview)
+- [ ] [Capítulo 22](https://drive.google.com/file/d/1AuNyjf52AuttIcZxYtNaoahQGRqdlj25/preview)
+- [ ] [Capítulo 21](https://drive.google.com/file/d/1_JTU4ohgrK_m4xVctBZSGIW5EwwLDsHX/preview)
+- [ ] [Capítulo 20](https://drive.google.com/file/d/1tcxs8YNDrmqCywYX8oq20not9tvI5ahg/preview)
+- [x] [Capítulo 19](https://drive.google.com/file/d/1hSe1Zf5OzB4pTiNQfSMGiNBs8VgESZzQ/preview)
+- [x] [Capítulo 18](https://drive.google.com/file/d/1mFszW0A5FmwASGpQqnnPUxEGS6wtbmI9/preview)
+- [x] [Capítulo 17](https://drive.google.com/file/d/1VCxI4pymRvHA-Hv1L2SEvDPZsQiQ3_WP/preview)
 - [x] [Capítulo 16](https://drive.google.com/file/d/19uCO2anZZGK1rY5Cbvoc21CRt7moee4n/preview)
 - [x] [Capítulo 15](https://drive.google.com/file/d/1Giu4_qOjmxGzTHVv2EYheSTbZiLTL8oO/preview)
 - [x] [Capítulo 14](https://drive.google.com/file/d/1OKoGboKXYva2emn2O5ntqGkioI8lEM2w/preview)
