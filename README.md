@@ -13,7 +13,12 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 24]()
+- [ ] [Capítulo 29]()
+- [ ] [Capítulo 28](https://drive.google.com/file/d/1yZ44mI3G8wDzRVpR4KOlr067cDC3H8Iz/preview)
+- [ ] [Capítulo 27](https://drive.google.com/file/d/1BtTg_eFx5db-6YaxcollpVvNZ8ceguiK/preview)
+- [ ] [Capítulo 26](https://drive.google.com/file/d/1i6iH4aEpXf3ECTgbSi1zxKVRuQA08Zz8/preview)
+- [ ] [Capítulo 25](https://drive.google.com/file/d/10wMX-HdnTlNcbhEnnRo5_0SVPEso998Y/preview)
+- [ ] [Capítulo 24](https://drive.google.com/file/d/10T3Xl4I14SFFiermzYZfwEto17FIOkr_/preview)
 - [ ] [Capítulo 23](https://drive.google.com/file/d/1tzr_Q8HXbDvmoSYr0jHEnobw3Xqwi-eB/preview)
 - [ ] [Capítulo 22](https://drive.google.com/file/d/1AuNyjf52AuttIcZxYtNaoahQGRqdlj25/preview)
 - [ ] [Capítulo 21](https://drive.google.com/file/d/1_JTU4ohgrK_m4xVctBZSGIW5EwwLDsHX/preview)
