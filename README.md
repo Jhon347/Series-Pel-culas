@@ -13,11 +13,17 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 33]()
-- [ ] [Capítulo 32](https://drive.google.com/file/d/1oI4ICp2_0MRryYQgFNbneDWTVKqhMAKn/preview)
-- [ ] [Capítulo 31](https://drive.google.com/file/d/1O8rUAsbJzaSOmAzpt4M33rnvjmgpIFnW/preview)
-- [ ] [Capítulo 30](https://drive.google.com/file/d/1A_7hmPZ2wuBa54BLZxryw4jdS34XWsoF/preview)
-- [ ] [Capítulo 29](https://drive.google.com/file/d/1h_vtRvX7Ewwh1IAeieJqeN1Dpfa2FQI_/preview)
+- [ ] [Capítulo 39]()
+- [ ] [Capítulo 38](https://drive.google.com/file/d/1tmabKrKIPuzS2pqCQpTN-XxEuHtLf3BZ/preview)
+- [ ] [Capítulo 37](https://drive.google.com/file/d/1r3DRbR_KjFqlnbQ3X2KD6g-FZr3T1Ykn/preview)
+- [ ] [Capítulo 36](https://drive.google.com/file/d/1jMrrPN9zbwVEYwXcyaPIqV8KtDk1ELS2/preview)
+- [ ] [Capítulo 35](https://drive.google.com/file/d/1HEMEkQEerVD-q8QCmaDVt8ghkTFXPu0P/preview)
+- [ ] [Capítulo 34](https://drive.google.com/file/d/1WhMKN2gKrgP6An_5UyoNDnVUVP16p61w/preview)
+- [ ] [Capítulo 33](https://drive.google.com/file/d/16dfPcONm5ikzyAVuUY1hbMraR_k520o0/preview)
+- [x] [Capítulo 32](https://drive.google.com/file/d/1oI4ICp2_0MRryYQgFNbneDWTVKqhMAKn/preview)
+- [x] [Capítulo 31](https://drive.google.com/file/d/1O8rUAsbJzaSOmAzpt4M33rnvjmgpIFnW/preview)
+- [x] [Capítulo 30](https://drive.google.com/file/d/1A_7hmPZ2wuBa54BLZxryw4jdS34XWsoF/preview)
+- [x] [Capítulo 29](https://drive.google.com/file/d/1h_vtRvX7Ewwh1IAeieJqeN1Dpfa2FQI_/preview)
 - [x] [Capítulo 28](https://drive.google.com/file/d/1yZ44mI3G8wDzRVpR4KOlr067cDC3H8Iz/preview)
 - [x] [Capítulo 27](https://drive.google.com/file/d/1BtTg_eFx5db-6YaxcollpVvNZ8ceguiK/preview)
 - [x] [Capítulo 26](https://drive.google.com/file/d/1i6iH4aEpXf3ECTgbSi1zxKVRuQA08Zz8/preview)
