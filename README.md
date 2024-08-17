@@ -13,7 +13,8 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 32]()
+- [ ] [Capítulo 33]()
+- [ ] [Capítulo 32](https://drive.google.com/file/d/1oI4ICp2_0MRryYQgFNbneDWTVKqhMAKn/preview)
 - [ ] [Capítulo 31](https://drive.google.com/file/d/1O8rUAsbJzaSOmAzpt4M33rnvjmgpIFnW/preview)
 - [ ] [Capítulo 30](https://drive.google.com/file/d/1A_7hmPZ2wuBa54BLZxryw4jdS34XWsoF/preview)
 - [ ] [Capítulo 29](https://drive.google.com/file/d/1h_vtRvX7Ewwh1IAeieJqeN1Dpfa2FQI_/preview)
