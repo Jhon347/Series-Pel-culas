@@ -13,7 +13,13 @@
 ## Betty
 
 **Temporada 01**
-- [ ] [Capítulo 39]()
+- [ ] [Capítulo 45]()
+- [ ] [Capítulo 44](https://drive.google.com/file/d/1Bp1wiukw4EocPF7MMTe-TeQYOhu1z0uE/preview)
+- [ ] [Capítulo 43](https://drive.google.com/file/d/1LK4yV5lF02jxoXaT0LH_CqvRS4aEmS00/preview)
+- [ ] [Capítulo 42](https://drive.google.com/file/d/195SXI4YrWfNXmF8vfyfo2cEFBB1YKYj5/preview)
+- [ ] [Capítulo 41](https://drive.google.com/file/d/1RkShlvwULsMykgaPLe_tpxzkuM-mxl2Z/preview)
+- [ ] [Capítulo 40](https://drive.google.com/file/d/1lVtUVO_dHhCGev-eKeAK4ZuFwYChBwkS/preview)
+- [ ] [Capítulo 39](https://drive.google.com/file/d/102wtLyfAaNjcDFv9-iXNBTd5uy9Y8ROr/preview)
 - [ ] [Capítulo 38](https://drive.google.com/file/d/1tmabKrKIPuzS2pqCQpTN-XxEuHtLf3BZ/preview)
 - [ ] [Capítulo 37](https://drive.google.com/file/d/1r3DRbR_KjFqlnbQ3X2KD6g-FZr3T1Ykn/preview)
 - [ ] [Capítulo 36](https://drive.google.com/file/d/1jMrrPN9zbwVEYwXcyaPIqV8KtDk1ELS2/preview)
