@@ -1,18 +1,5 @@
-# Series y Películas
-## Big Bang Theory
-
-**Temporada 10**
-- [ ] [Capítulo 12]()
-- [ ] [Capítulo 11](https://mega.nz/embed/O7wRDC4T#kOGUOGnrmA_tnzcaMU_It2muTTov-1RLJD1nCtrnphw)
-- [ ] [Capítulo 10](https://mega.nz/embed/OjIinDRL#IK2Avaf3lhIpwZX8k2z3v6pIQadmmzkLttsYT2u_6NY)
-- [ ] [Capítulo 09](https://mega.nz/embed/76BEnboa#BZOKBuqMj6K--JiD32NLOL__ktNOfTFurP7qLFxl3LM)
-- [ ] [Capítulo 08](https://mega.nz/embed/DmYVDJAQ#wWA82ybYWSvIrN0UoC2ElO7Xx8w2ynpgWBCQjlKeik0)
-- [x] [Capítulo 07](https://mega.nz/embed/D7B1gJgR#xB6JGG38pgbLtZ-PMWUbeQL6jJmRGjv0snU4EweBgIw)
-- [x] [Capítulo 06](https://mega.nz/embed/quJ0xLLR#s3ewoF_0IXWzUXFp2rEHAY_IS8KLZwwwXsnLQfv4sAU)
-- [x] [Capítulo 05](https://mega.nz/embed/6uA1wBjK#Og8pKfS4188igLFwU4BDetE3TQ1_xTDcPl4J7LuAmII)
-- [x] [Capítulo 04](https://mega.nz/embed/TmhEhICD#A8AkocA5raLkIzGQLRR9kaLb3Xjvzk6UKYHruWg573I)
-- [x] [Capítulo 03](https://mega.nz/embed/KrxVAL4I#BzdYnhfyxe-ckkKY9zJ3lPzHw8CRFu6DiFYwx09qYg0)
-
+**Canciones**
+- https://youtube.com/playlist?list=PL_SkXHPu49WhxuN4AeFv6YUY2KdB7B9c6&si=ZXSJy5LWdb7zeiHB
 
 ## Betty
 
@@ -60,6 +47,22 @@
 - [x] [Capítulo 11](https://drive.google.com/file/d/1gBZblWk3xGCXGcbf50awyEUc0_-gWojl/preview)
 - [x] [Capítulo 10](https://drive.google.com/file/d/1D6ROwOk1wkNr4Hlq_jvO8joC81utW6nk/preview)
 - [x] [Capítulo 09](https://drive.google.com/file/d/1761Hxm_c4_OKg3s3hNYlYNeq2q-C12-X/preview)
+
+# Series y Películas
+## Big Bang Theory
+
+**Temporada 10**
+- [ ] [Capítulo 12]()
+- [ ] [Capítulo 11](https://mega.nz/embed/O7wRDC4T#kOGUOGnrmA_tnzcaMU_It2muTTov-1RLJD1nCtrnphw)
+- [ ] [Capítulo 10](https://mega.nz/embed/OjIinDRL#IK2Avaf3lhIpwZX8k2z3v6pIQadmmzkLttsYT2u_6NY)
+- [ ] [Capítulo 09](https://mega.nz/embed/76BEnboa#BZOKBuqMj6K--JiD32NLOL__ktNOfTFurP7qLFxl3LM)
+- [ ] [Capítulo 08](https://mega.nz/embed/DmYVDJAQ#wWA82ybYWSvIrN0UoC2ElO7Xx8w2ynpgWBCQjlKeik0)
+- [x] [Capítulo 07](https://mega.nz/embed/D7B1gJgR#xB6JGG38pgbLtZ-PMWUbeQL6jJmRGjv0snU4EweBgIw)
+- [x] [Capítulo 06](https://mega.nz/embed/quJ0xLLR#s3ewoF_0IXWzUXFp2rEHAY_IS8KLZwwwXsnLQfv4sAU)
+- [x] [Capítulo 05](https://mega.nz/embed/6uA1wBjK#Og8pKfS4188igLFwU4BDetE3TQ1_xTDcPl4J7LuAmII)
+- [x] [Capítulo 04](https://mega.nz/embed/TmhEhICD#A8AkocA5raLkIzGQLRR9kaLb3Xjvzk6UKYHruWg573I)
+- [x] [Capítulo 03](https://mega.nz/embed/KrxVAL4I#BzdYnhfyxe-ckkKY9zJ3lPzHw8CRFu6DiFYwx09qYg0)
+
 
 
 
