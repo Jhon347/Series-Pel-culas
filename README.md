@@ -1,6 +1,5 @@
-**Canciones**
-- https://youtube.com/playlist?list=PL_SkXHPu49WhxuN4AeFv6YUY2KdB7B9c6&si=ZXSJy5LWdb7zeiHB
-
+**Notion**
+- https://www.notion.so/Series-con-URL-d6c6794baf20413688f62b2378d325f5?pvs=4
 ## Betty
 
 **Temporada 01**
