@@ -1,5 +1,3 @@
-**Ejemplo**
-- [Casillas](https://jhon347.github.io/index.html)
 ## Betty
 
 **Temporada 01**
