@@ -1,5 +1,5 @@
-**Notion**
-- https://www.notion.so/Series-con-URL-d6c6794baf20413688f62b2378d325f5?pvs=4
+**Ejemplo**
+- [Casillas](https://jhon347.github.io/index.html)
 ## Betty
 
 **Temporada 01**
