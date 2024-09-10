@@ -1,6 +1,13 @@
 ## Betty
 
-- [Capítulo 64]()
+- [Capítulo 71]()
+- [Capítulo 70](https://drive.google.com/file/d/142umY_7HQFLCPs9-W1jAGnu8jceeGpRY/preview)
+- [Capítulo 69](https://drive.google.com/file/d/1NuQFvket49xekifoZ62n0_S9e6DA_KPg/preview)
+- [Capítulo 68](https://drive.google.com/file/d/1R_Q_ALnM2iROy8AkZ6-5CPRZ7uD7ycE1/preview)
+- [Capítulo 67](https://drive.google.com/file/d/11gMiYXhjJ2EpGXUybmvjnjmWvqUKlZWj/preview)
+- [Capítulo 66](https://drive.google.com/file/d/1AAl5VVibQmUQc-CmJjjlMDWmRzMt6NHc/preview)
+- [Capítulo 65](https://drive.google.com/file/d/1rRJr0RBgjUQw1HnL_itaSVtWBv3pj3er/preview)
+- [Capítulo 64](https://drive.google.com/file/d/1U6tS0StN_9kEqO2KVkIA0d_M8hQK-RRL/preview)
 - [Capítulo 63](https://drive.google.com/file/d/1YqTJz2K3dPrkrAwwkT8pBW-WG5ro4rSs/preview)
 - [Capítulo 62](https://drive.google.com/file/d/1Xyz2hRqyl84AKGQSXMLFnZbQ2tS8fj1Q/preview)
 - [Capítulo 61](https://drive.google.com/file/d/1OlkS3v3h27pFQPCfzp6VAy4Jxf2eYhdH/preview)
