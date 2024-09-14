@@ -1,6 +1,17 @@
 ## Betty
 
-- [Capítulo 71]()
+- [Capítulo 82]()
+- [Capítulo 81](https://drive.google.com/file/d/17dDimB6cdvGojR96IsdzgoQx0G2BUQXF/preview)
+- [Capítulo 80](https://drive.google.com/file/d/1qGefGXKwABhN0DX4fs8xE1TENVGjg_Tj/preview)
+- [Capítulo 79](https://drive.google.com/file/d/1_OCEVR8_AG1Pe3IOtqKTLfNlQkai_dwS/preview)
+- [Capítulo 78](https://drive.google.com/file/d/15E9ndMY2UbXTRlu91lN3R1btMxym25UA/preview)
+- [Capítulo 77](https://drive.google.com/file/d/1-CkI1IPTjVirVZOTam0q7EdfeclY42UC/preview)
+- [Capítulo 76](https://drive.google.com/file/d/19xMaU1UxroFz7P4sjbKsTtFBJUTbe-oC/preview)
+- [Capítulo 75](https://drive.google.com/file/d/120jvtI-ekdkxYXnDSocPAoogyNU7XZ_D/preview)
+- [Capítulo 74](https://drive.google.com/file/d/1sKSWz13PWWqkIwSoRCOksx6VPwVg5ylf/preview)
+- [Capítulo 73](https://drive.google.com/file/d/1m4T5t68HkYhm26NxePMc1nuOdH6MsdDJ/preview)
+- [Capítulo 72](https://drive.google.com/file/d/1611xdMtDvW0sqwhM2RplMg9f-PI5IDqq/preview)
+- [Capítulo 71](https://drive.google.com/file/d/1zuRv25HjlSSmEPQL6KYqjih_KLmIbxLm/preview)
 - [Capítulo 70](https://drive.google.com/file/d/142umY_7HQFLCPs9-W1jAGnu8jceeGpRY/preview)
 - [Capítulo 69](https://drive.google.com/file/d/1NuQFvket49xekifoZ62n0_S9e6DA_KPg/preview)
 - [Capítulo 68](https://drive.google.com/file/d/1R_Q_ALnM2iROy8AkZ6-5CPRZ7uD7ycE1/preview)
