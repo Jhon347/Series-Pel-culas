@@ -1,6 +1,7 @@
 ## Betty
 
-- [Capítulo 135]()
+- [Capítulo 136]()
+- [Capítulo 135](https://drive.google.com/file/d/1-U7qu8Ni80_sa8-rn60qgoxyctlMeROW/preview)
 - [Capítulo 134](https://drive.google.com/file/d/1Qw0nDlzYRKVp1nQCSAoFSiBdPBK54x8i/preview)
 - [Capítulo 133](https://drive.google.com/file/d/1ueV6OHQSSazLIZohJzIKlf6pUc5HSQQJ/preview)
 - [Capítulo 132](https://drive.google.com/file/d/1yFEDcojwivl20LjM8vz9AcVwVjTqLEHC/preview)
