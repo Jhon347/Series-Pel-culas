@@ -155,7 +155,8 @@
 ## Big Bang Theory
 
 **Temporada 10**
-- [ ] [Capítulo 12]()
+- [ ] [Capítulo 12](https://mega.nz/embed/K3JAXYLC#WNzSrst185u0axpjy0CTwjJfmqwFnI1GXDG6IexTHLE)
+- [ ] [Capítulo 12](https://mega.nz/embed/K3JAXYLC#WNzSrst185u0axpjy0CTwjJfmqwFnI1GXDG6IexTHLE)
 - [ ] [Capítulo 11](https://mega.nz/embed/O7wRDC4T#kOGUOGnrmA_tnzcaMU_It2muTTov-1RLJD1nCtrnphw)
 - [ ] [Capítulo 10](https://mega.nz/embed/OjIinDRL#IK2Avaf3lhIpwZX8k2z3v6pIQadmmzkLttsYT2u_6NY)
 - [ ] [Capítulo 09](https://mega.nz/embed/76BEnboa#BZOKBuqMj6K--JiD32NLOL__ktNOfTFurP7qLFxl3LM)
