@@ -2,6 +2,17 @@
 ## Big Bang Theory
 
 **Temporada 10**
+- [ ] [Capítulo 24](https://mega.nz/embed/c2E3UAYC#OyaL3Rqyeyhd8vwyl3KoVq7QIWo_wqgyj7Jmmxa9uIM)
+- [ ] [Capítulo 23](https://mega.nz/embed/IukRXLgT#NoQCyk5iB43dZ2s18iURFR-cteBRF-k6YUyI6KcbzaA)
+- [ ] [Capítulo 22](https://mega.nz/embed/0zkDxQDL#ZhxltoJphiO_OfolZXb7TOA_3mOfR6VvHtxhgUqLR1o)
+- [ ] [Capítulo 21](https://mega.nz/embed/B39CRL4b#9a5e-pFxYKQJOmD0JvcAH3fLGMSs2rbiegqMvuTNztI)
+- [ ] [Capítulo 20](https://mega.nz/embed/0yNQEAZD#CtCy67o5pdEfeo9Rqam9CxJdy5yyp7QLWbPEAxeT_Tc)
+- [ ] [Capítulo 19](https://mega.nz/embed/MjshwZRK#RbN42L4vrzsNz4kxesY4i8rN9P7HADLSjD4VcWhVuLA)
+- [ ] [Capítulo 18](https://mega.nz/embed/JzViQLQT#SOx7oVqP215nzmQBSNXSpFTK8QyTN8CNMsSF7iPTLsw)
+- [ ] [Capítulo 17](https://mega.nz/embed/dzkDmJBK#mpPOMWmBpD5_ctGpWPhx5Tnx7AYFJP9yInZaKU-XD3U)
+- [ ] [Capítulo 16](https://mega.nz/embed/rnwxmYjJ#kJ1IFeyJ99fUm_8Rl7GTfX-_qvJSvePYxYiPaCa61Xk)
+- [ ] [Capítulo 15](https://mega.nz/embed/jzQlVKYB#cT5mdB5PyP1WqFxAFmPw0mElkJ1AEt_uTHHs4UCMc20)
+- [ ] [Capítulo 14](https://mega.nz/embed/76ZCDSrK#LaISQxhqkaqLmwct4uoPoTfq1RTwOYApEx7NVxAN4lo)
 - [ ] [Capítulo 13](https://mega.nz/embed/amAmQTgK#CptLT1HwS-DExyqbhdCPryiZiE-X3ZBymCKwt2ekaBM)
 - [ ] [Capítulo 12](https://mega.nz/embed/K3JAXYLC#WNzSrst185u0axpjy0CTwjJfmqwFnI1GXDG6IexTHLE)
 - [ ] [Capítulo 11](https://mega.nz/embed/O7wRDC4T#kOGUOGnrmA_tnzcaMU_It2muTTov-1RLJD1nCtrnphw)
