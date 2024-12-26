@@ -1,5 +1,7 @@
 # Series y Películas
 ## Big Bang Theory
+**Temporada 11**
+- [ ] [Capítulo 1](https://mega.nz/embed/tu023JRY#o5TRQ9DbVxpqH48wI9otZhrjjv5BQK8do92QDkT8xGs)
 
 **Temporada 10**
 - [ ] [Capítulo 24](https://mega.nz/embed/c2E3UAYC#OyaL3Rqyeyhd8vwyl3KoVq7QIWo_wqgyj7Jmmxa9uIM)
