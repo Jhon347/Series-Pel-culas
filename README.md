@@ -1,6 +1,10 @@
 # Series y Películas
 ## Big Bang Theory
 **Temporada 11**
+- [ ] [Capítulo 5]()
+- [ ] [Capítulo 4](https://mega.nz/embed/16MSmQJZ#QAoiNcNZMq5NJL-Bpoj76_YhDChi2dsEOf4JGPBpgoI)
+- [ ] [Capítulo 3](https://mega.nz/embed/4rk0yLKJ#0YvQuGAStMaf75PHROF4zRYc1Wi3U6G053VcJEfzqzU)
+- [ ] [Capítulo 2](https://mega.nz/embed/0jlQQSbI#wQlaSCVEV9Xtg72i6-w7RwPWTgLdaqlRdz6iylV1VsI)
 - [ ] [Capítulo 1](https://mega.nz/embed/tu023JRY#o5TRQ9DbVxpqH48wI9otZhrjjv5BQK8do92QDkT8xGs)
 
 **Temporada 10**
